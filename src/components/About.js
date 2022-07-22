@@ -10,6 +10,7 @@ function About() {
       {/* add your <Links /> component here */}
     </div>
   );
+}
 function About(props) {
     return (
         <div id="about">
